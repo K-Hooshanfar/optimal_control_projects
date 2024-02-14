@@ -12,3 +12,7 @@ This repository contains code implementations for homework assignments related t
 
 - **Newton's Method:** Code implementations showcasing Newton's Method in optimal control.
 
+### HW2:
+
+- **Ritz Estimation:** Implementation and solutions for estimating optimal control using Ritz's method.
+
