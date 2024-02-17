@@ -20,3 +20,7 @@ This repository contains code implementations for homework assignments related t
 
 - **Designing LQR Controller:** Overhead Crane simulation using LQR controller.
 
+### HW4:
+
+- **Dynamic Programming:**
+  - MATLAB and python implementations for dynamic programming algorithms for both continuous and discrete systems.
