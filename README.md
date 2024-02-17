@@ -16,3 +16,7 @@ This repository contains code implementations for homework assignments related t
 
 - **Ritz Estimation:** Implementation and solutions for estimating optimal control using Ritz's method.
 
+### HW3:
+
+- **Designing LQR Controller:** Overhead Crane simulation using LQR controller.
+
