@@ -24,3 +24,8 @@ This repository contains code implementations for homework assignments related t
 
 - **Dynamic Programming:**
   - MATLAB and python implementations for dynamic programming algorithms for both continuous and discrete systems.
+
+### HW5:
+
+- **Implementation of Discrete Kalman Filter:**
+  - MATLAB code implementing the Discrete Kalman Filter for state estimation.
